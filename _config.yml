@@ -1,4 +1,4 @@
-name: Slurping Noodles
+name: Slurp
 favicon: null
 layout_spectrum: 0.6995231781620532
 typography_spectrum: 0.3499755118973553
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#222430'
+    - '#ffffff'
+    - '#8491b1'
+    - '#704b15'
+    - '#cfbf75'
   brandStrength: 0.02009814395569265
   lightness: 0.30860069137997925
   saturation: 0.9392038544174284
