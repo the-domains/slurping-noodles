@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Slurping Noodles]]></title>
         <description><![CDATA[Slurping Noodles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/slurping-noodles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 20:23:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 20:28:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/slurping-noodles/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<h1>Welcome</h1>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to Slurp</p></article>]]></description>
+            <link>https://thegrid.ai/slurping-noodles/welcome/index.html</link>
             <guid isPermaLink="false">c662399f-4c3e-425f-9e0d-a1941a43aee3</guid>
-            <pubDate>Thu, 10 Mar 2016 20:22:17 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 20:27:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
