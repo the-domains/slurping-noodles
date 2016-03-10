@@ -1,0 +1,28 @@
+name: Slurping Noodles
+favicon: null
+layout_spectrum: 0.6995231781620532
+typography_spectrum: 0.3499755118973553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.02009814395569265
+  lightness: 0.30860069137997925
+  saturation: 0.9392038544174284
+  rhythmicContrast: 0.9729826878756285
+purpose: []
